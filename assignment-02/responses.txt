@@ -1,0 +1,9 @@
+1. as I understand it, the web is different from the internet in that the web is the pages or websites that we see and interact with on our screens while the 
+internet is the system of computers the web runs on. That seems to be an over-simplification, but that's my knowledge on the subject.
+2. The internet is a complex path of servers to domain servers to modems to router to our computer devices. 
+3. Directories are a system of folders usually within other sub-folders or sub-directories that store files in a neat organized and accessible fashion.
+4. A VCS is helpful in numerous ways. Our VCS Github is essential for permanent file storage, sharing projects, and collaboration. I find it is a
+great tool for me to store files in case something happens to my personal device.
+5. Screenshot
+6. Tough question but I would have to say my favorite form of art is music. Something about the fleetingness of good music and sounds unless recorded has
+always fascinated me. I have also always respected the dicipline of hand-drawn pencil art as well. 
