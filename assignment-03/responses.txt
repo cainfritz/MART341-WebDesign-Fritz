@@ -1,0 +1,27 @@
+This is my response
+1. Three websites I enjoy visiting
+ - [youtube](https://www.youtube.com/)
+ - [MART 341 Website](https://montana-media-arts.github.io/341-web-design-Spring2021/)
+ - [Github](https://github.com/)
+
+2. An IP address is a unique number attached to a specific device that
+allows that device to send and receive information. The DNS or Domain Name
+System is a naming system for computers or services. Each IP address is
+attached to a DNS address and vice versa. The difference is, however
+that the IP address is displayed in numerical format and the DNS is
+alphabetical. This is similar to each person's name and phone number being
+in a phone book, they are both attached to one person and information can be
+found using one or the other.
+
+3. Cookies, in the internet sense, are little pieces of information stored
+on a computer's web browser that are designed to remember information about
+the visiting user and even personal and login information.
+
+4. The essential parts of a URL are the protocol, domain, path, and file
+
+5. Things I have learned so far
+ - I learned the difference between referencing relative links and absolute
+ links
+ - I also learned how to write and stylize in markdown language
+ - The third thing I learned this week is that if a file is below or deeper
+ within a directory, It will not show up without referencing it's file name
