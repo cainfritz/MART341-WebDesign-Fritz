@@ -10,5 +10,5 @@ relative and absolute URL's, and the anatomy of a URL.
 Week 04 - This week we discussed the importance of markup languages and browsers and what they can do for us. This week I struggled with arranging my files
 and struggled to get my files were I desired them to go. 
 
-Week 05 - This week we dove into creating websites with the basic elements of HTML. I think mine turned out fairly well and I was structured my 
+Week 05 - This week we dove into creating websites with the basic elements of HTML. I think mine turned out fairly well and I structured my 
 directory well enough that I was able to reference all of my images correctly the first time around. 
