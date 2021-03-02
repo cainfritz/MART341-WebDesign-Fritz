@@ -12,3 +12,6 @@ and struggled to get my files were I desired them to go.
 
 Week 05 - This week we dove into creating websites with the basic elements of HTML. I think mine turned out fairly well and I structured my 
 directory well enough that I was able to reference all of my images correctly the first time around. 
+
+Week 07 - This week we mastered forms, tables and buttons as well as many other practical applications. 
+I found the forms challenging but rewarding once shown the final product. 
