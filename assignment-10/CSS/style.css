@@ -1,0 +1,30 @@
+body {
+   font-family: Arial;
+   background-color: black;
+}
+.box-one {
+   color: white;
+   background-color: teal;
+   opacity: 0.75;
+   padding: 3px;
+   border: 2px dashed gold;
+}
+h1 {
+  color: orange;
+  font-family: cursive;
+}
+.container {
+    background-color: black;
+    width: 600px;
+    height: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 2px dashed gold;
+}
+/* comment. */
+.HowlPosition {
+   position: absolute;
+   left: 650px;
+   right: 500px;
+   bottom: 0;
+}
