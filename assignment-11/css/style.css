@@ -1,0 +1,57 @@
+.f1 {
+  font-family: 'Merriweather', sans-serif;
+}
+.f2 {
+  font-family: 'Lato', sans-serif;
+}
+.f3 {
+   font-family: 'Playfair Display', sans-serif;
+}
+
+.f4 {
+   font-family: 'Righteous', sans-serif;
+}
+.f5 {
+   font-family: sans-serif;
+}
+
+.center {
+  text-align: center;
+}
+
+.main-paragraph{
+    font-family: 'serif';
+    font-size: 18px;
+    text-indent: 10px;
+    font-weight:520;
+}
+
+.alt-paragraph{
+    font-size: 20px;
+}
+
+table{
+    border: 5px solid blue;
+    font-family:  'Lato', sans-serif;
+    font-weight: 500;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Merriweather', sans-serif;
+
+}
+a:link {
+   color: #79AF33;
+   text-decoration: none;
+}
+
+a:visited {
+   color: #218;
+   text-decoration: none;
+}
+
+a:hover {
+   color: green;
+   font-style: bold;
+}
