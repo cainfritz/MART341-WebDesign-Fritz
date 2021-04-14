@@ -21,3 +21,6 @@ div{
     clear: both;
     display: table;
   }
+.display-inline-block {
+      display: inline-block;
+}
