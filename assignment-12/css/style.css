@@ -1,0 +1,38 @@
+body{
+    background-color: gold;
+}
+.container {
+    margin: auto;
+}
+.container:hover .hidden-content {
+    display: block;
+}
+.text-box-1{
+  padding: 2em;
+  border: 3px solid #333;
+  border-radius: 20px;
+  background-color: green;
+  font-family: serif;
+  font-size: 1em;
+}
+.text-box-2{
+  margin: 1em 2em;
+  border: 4px double #000;
+  border-radius: 20px;
+  background-color: #1CCDCA;
+  position: absolute;
+  top: 500px;
+  left: 400px;
+  width: 800px;
+  height: 100px;
+  max-width: 300px;
+  font-size: 2em;
+  opacity: 0.8;
+  text-align: center;
+}
+.hidden-content {
+    display: none;
+    font-size: 1em;
+    font-style: italic;
+    padding: 1em;
+}
