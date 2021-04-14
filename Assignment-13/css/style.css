@@ -1,0 +1,23 @@
+body{
+    background-color: bisque;
+}
+div{
+    text-align: left;
+    line-height: 1.45em;
+    font-family: Merriweather, sans-serif;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+.menu-item a {
+    color: #black;
+    text-decoration: none;
+}
+
+.textareacomments{
+    padding-bottom: 500px;
+}
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
